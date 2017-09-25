@@ -1,0 +1,76 @@
+/*
+* @Author: DELL-PC
+* @Date:   2017-09-25 18:33:22
+* @Last Modified by:   DELL-PC
+* @Last Modified time: 2017-09-25 22:03:37
+*/
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+	/* box-sizing: border-box; */
+}
+body{
+	background: #C3E8FF;
+}
+.box{
+	width: 900px;
+	height: auto;
+	background: #fff;
+	margin: 0 auto;
+	margin-top: 150px;
+	overflow: hidden;
+}
+.inp{
+	width: 700px;
+	height: 200px;
+	/* background: yellow; */
+	margin: 0 auto;
+	margin-top: 50px;
+}
+textarea{
+	width: 680px;
+	height: 180px;
+	font-size: 20px;
+	padding: 10px 10px;
+	resize: none;
+}
+.confirm{
+	width: 700px;
+	height: 55px;
+	/* background: pink; */
+	margin: 0 auto;
+}
+.confirm button{
+	width: 50px;
+	height: 25px;
+	background: #008AD4;
+	margin-left: 10px;
+	outline: none;
+	border: none;
+	margin-top: 15px;
+	float: right;
+	font-size: 14px;
+	color: #fff;
+	line-height: 25px;
+	border-radius: 10px;
+}
+.confirm button:focus{
+	border: 1px solid #b0b0b0;
+}
+.area{
+	width: 700px;
+	height: auto;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+.a1{
+	width: 700px;
+	height: 100px;
+	border: 1px solid #b0b0b0;
+	margin: 5px auto;
+	box-sizing: border-box;
+	line-height: 100px;
+	text-align: center;
+}
